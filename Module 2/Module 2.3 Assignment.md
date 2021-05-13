@@ -1,3 +1,5 @@
+Margit
+
 # Module 2.3 Assignment
 
 In this lesson, you learned more about how branches are used in the GitHub workflow. To complete this assignment, you’ll use the command line to create a new branch and change this file in your local repository by following the instructions below:
@@ -9,4 +11,5 @@ In this lesson, you learned more about how branches are used in the GitHub workf
 5. Delete the `assignment-edit` branch after you’ve successfully merged your branch
 
 ## Submission
+
 To submit this assignment, create an issue titled `Module 2.3 Assignment` in this repository. In the issue, provide a screenshot of your command line showing the commands you used to complete this assignment, then proceed to the next section in this module.
